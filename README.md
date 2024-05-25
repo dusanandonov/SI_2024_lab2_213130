@@ -2,7 +2,7 @@
 
 CFG
 
-![CFG drawio](https://github.com/dusanandonov/SI_2024_lab2_213130/assets/166114429/d5cf97e4-633e-4695-ac8c-91c2958cd075)
+![CFG drawio](https://github.com/dusanandonov/SI_2024_lab2_213130/assets/166114429/40417801-3a76-408e-81c7-038dc583b2b0)
 
 Цикломатска комплексност
 
@@ -10,7 +10,8 @@ CFG
 
 Тест случаи според критериумот Every branch
 
-![Everybranch](https://github.com/dusanandonov/SI_2024_lab2_213130/assets/166114429/b7b6b7cd-376e-452a-a6c9-52d45da5812c)
+![Everybranch](https://github.com/dusanandonov/SI_2024_lab2_213130/assets/166114429/99c95f31-7a34-4ad3-bdf3-638042d83bea)
+
 
 Тест случаи според Every Statement
 ------------------------------------------------------------------------------------------------------------------------------------
